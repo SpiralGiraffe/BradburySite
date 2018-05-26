@@ -1,0 +1,25 @@
+
+#textPadding{
+  padding: 10px;
+  
+}
+
+#polaroidFrame{
+  padding: 0px 0px 0px 0px;
+  
+}
+#quote{
+  font-family: courier new
+   
+}
+#panels{
+  background-color: #BBCCEE;
+  border-radius: 5px;
+  padding: 30px;
+}
+h4{
+  font-family:courier new
+}
+.blue-background{
+  background-color: #993330
+}
